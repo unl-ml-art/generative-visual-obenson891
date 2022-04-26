@@ -7,6 +7,10 @@ Your Name, yourcontact@unl.edu
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
 
+- show and image and find it 
+- image interpolation
+- style gan
+
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
