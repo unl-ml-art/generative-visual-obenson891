@@ -5,11 +5,7 @@ Your Name, yourcontact@unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
-
-- show and image and find it 
-- image interpolation
-- style gan
+For this project, I plan on using creative materials from my childhood as generation points for visuals. This would look like taking drawings Ive done as a kid and uploading to "find" them in the GAN. This would also include taking writing my younger self has done and using it as a text prompt for illustrations. This all would serve a purpose of going back to a simpler time in my creative journey and extending it to my current practice as a sort of time travel. 
 
 ## Model/Data
 
