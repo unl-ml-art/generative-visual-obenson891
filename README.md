@@ -1,7 +1,7 @@
 # Project 3 Generative Visual
 
-Your Name, yourcontact@unl.edu
-(Your teammate's contact info, if appropriate)
+Olivia Benson 
+obenson891@gmail.com
 
 ## Abstract
 
