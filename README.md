@@ -16,7 +16,9 @@ The new concept for the project would involve taking strips of Garfield comics a
 Briefly describe the files that are included with your repository:
   - Final Booklet
       - Edited compilations of images
-  - Raw 
+  - Raw Generated Images
+      - Images output by the website from the text input, pre-editing
+      - Titles of images denote the input used to create the image
 
 ## Code
 
@@ -37,7 +39,5 @@ Any implementation details or notes we need to repeat your work.
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+Garfield comics obtained via 
+http://pt.jikos.cz/garfield/
