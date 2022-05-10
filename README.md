@@ -33,7 +33,7 @@ Final compilation of three Garfield comic strips
 
 ## Technical Notes
 
-To create the images on https://hotpot.ai/art-maker I utilized the "custom" style, and prompted the text with my own style descrptiors such as "comic text" and "comic panel" to acheive the style of a comic and not the realism produced with the other styles. 
+To create the images on https://hotpot.ai/art-maker I utilized the "custom" style, and prompted the text with my own style descriptors such as "comic text" and "comic panel" to acheive the style of a comic and not the realism produced with the other styles. 
 
 
 ## Reference
