@@ -14,21 +14,20 @@ The new concept for the project would involve taking strips of Garfield comics a
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+  - Final Booklet
+      - Edited compilations of images
+  - Raw 
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+Website used to generate images:
+https://hotpot.ai/art-maker 
+AI Art Maker: turn text to art - Hotpot.ai 
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- move files (uploaded to youtube or vimeo due to github file size limits)
-- ... some other form
+Comic strips created from descriptions
+![PAGE_1](https://user-images.githubusercontent.com/78116931/167716275-82df9af8-f7e2-4ea6-a53a-c82212f72fba.png)
 
 ## Technical Notes
 
