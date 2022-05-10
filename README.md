@@ -1,11 +1,15 @@
-# Project 3 Generative Visual
+# Garfield takes on machine learning
 
 Olivia Benson 
 obenson891@gmail.com
 
 ## Abstract
 
-For this project, I plan on using creative materials from my childhood as generation points for visuals. This would look like taking drawings Ive done as a kid and uploading to "find" them in the GAN. This would also include taking writing my younger self has done and using it as a text prompt for illustrations. This all would serve a purpose of going back to a simpler time in my creative journey and extending it to my current practice as a sort of time travel. 
+For this project, I originally planned on using creative materials from my childhood as 
+generation points for visuals. However, the image to image translation options available was not creating the visuals I wanted. In my journey of going through drawings, I found many drawings of Garfield, a childhood muse of mine, and switched my topic. 
+
+The new concept for the project would involve taking strips of Garfield comics and describing each panel in text format to prompt image generation. I then compiled all of the panels together to create one "cohesive" strip that told the original story. For some panels, I prompted twice. One with the image description, and one with the text spoken by the character. 
+
 
 ## Model/Data
 
