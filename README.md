@@ -13,7 +13,7 @@ The new concept for the project would involve taking strips of Garfield comics a
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
+Files that are included:
   - Final Booklet
       - Edited compilations of images
   - Raw Generated Images
@@ -22,20 +22,19 @@ Briefly describe the files that are included with your repository:
 
 ## Code
 
-Website used to generate images:
+Website used to generate images:  
 https://hotpot.ai/art-maker 
 AI Art Maker: turn text to art - Hotpot.ai 
 
 ## Results
 
-Comic strips created from descriptions
+Final compilation of three Garfield comic strips
 ![PAGE_1](https://user-images.githubusercontent.com/78116931/167716275-82df9af8-f7e2-4ea6-a53a-c82212f72fba.png)
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+To create the images on https://hotpot.ai/art-maker I utilized the "custom" style, and prompted the text with my own style descrptiors such as "comic text" and "comic panel" to acheive the style of a comic and not the realism produced with the other styles. 
+
 
 ## Reference
 
